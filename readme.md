@@ -1,4 +1,4 @@
-# Ping CRM
+# Admin and web scaffolding
 
 This repo uses PING CRM with users CRUD only and set scaffolding for admin and frontend application. 
 
