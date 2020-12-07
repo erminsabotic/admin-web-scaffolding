@@ -1,6 +1,6 @@
 # Ping CRM
 
-A demo application to illustrate how Inertia.js works.
+This repo uses PING CRM with users CRUD only and set scaffolding for admin and frontend application. 
 
 ![](https://raw.githubusercontent.com/inertiajs/pingcrm/master/screenshot.png)
 
