@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 //Web
-Route::get('', [\App\Http\Controllers\Web\IndexController::class, 'index']);
+Route::get('/', [\App\Http\Controllers\Web\IndexController::class, 'index']);
 
 //Auth
 Route::get('login', [LoginController::class, 'showLoginForm'])

@@ -18,6 +18,7 @@ class UsersTableSeeder extends Seeder
             'first_name' => 'John',
             'last_name' => 'Doe',
             'email' => 'johndoe@example.com',
+            'password' => 'secret',
             'admin' => true,
         ]);
 
